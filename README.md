@@ -47,4 +47,4 @@ Welcome to **Soul Store**, a modern and stylish ecommerce platform developed usi
 ### 🗂️ Steps:
 
 1. Clone the repository:
-  https://github.com/vrushali29-git/Ecommerce-site-using-wordpress.git
+https://github.com/shailendraenthusiastics/Ecommerce-site-using-wordpress.git
